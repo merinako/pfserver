@@ -1,0 +1,3 @@
+[run]
+source = pfserver
+omit = pfserver/test*
